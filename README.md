@@ -53,6 +53,7 @@ Complete Example
  - threshold : number of pixels either from right of left based on alignment. think of this as a box on either side
  - align : either left or right based on which side the 
   - debug : if true will create a red box on either side of edges for easy development
-properly:
+
+
 # Compatibility
-compatible with both bootstrap and zurd foundation css framework
+   compatible with both bootstrap and zurd foundation css framework
